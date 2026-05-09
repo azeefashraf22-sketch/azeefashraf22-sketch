@@ -56,11 +56,9 @@
 </div>
 
 <br />
-
-
 <div align="center">
-  <!-- Main Stats Card -->
-  <img width="600" src="https://github-readme-stats.vercel.app/api?username=azeefashraf22-sketch&show_icons=true&theme=tokyonight&hide_border=false&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff&bg_color=0d1117" />
+  <!-- Streak Box-->
+  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=azeefashraf22-sketch&theme=tokyonight&hide_border=false&fire=00D1FF&ring=00D1FF&currStreakNum=00D1FF" />
 </div>
 
 <hr />
