@@ -51,8 +51,22 @@
 <hr />
 
 ### 📊 GitHub Stats
-  <!-- Streak Card -->
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=azeefashraf22-sketch&theme=tokyonight&hide_border=true&fire=00D1FF&ring=00D1FF" align="center"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=azeefashraf22-sketch&label=Profile%20views&color=00D1FF&style=flat" alt="Azeef Views" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Streak Box: Size adjusted to 600px and Centered -->
+  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=azeefashraf22-sketch&theme=tokyonight&hide_border=false&fire=00D1FF&ring=00D1FF&currStreakNum=00D1FF" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Main Stats Card: Size adjusted to 600px and Centered -->
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=azeefashraf22-sketch&show_icons=true&theme=tokyonight&hide_border=false&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <hr />
