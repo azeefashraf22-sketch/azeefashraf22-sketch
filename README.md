@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Azeef</h1>
   <p>🚀 Full Stack Developer | MERN Stack | UI/UX Enthusiast</p>
 
-  <!-- Typing Animation (Width fixed to 600 so it doesn't cut) -->
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;Problem+Solver;Creative+Developer" alt="Typing SVG" />
 </div>
 
@@ -52,7 +52,7 @@
 
 ### 📊 GitHub Stats
   <!-- Streak Card -->
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=azeefashraf22-sketch&theme=tokyonight&hide_border=true&fire=00D1FF&ring=00D1FF" />
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=azeefashraf22-sketch&theme=tokyonight&hide_border=true&fire=00D1FF&ring=00D1FF" align="center"/>
 </div>
 
 <hr />
