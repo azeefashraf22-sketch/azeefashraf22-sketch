@@ -51,17 +51,6 @@
 <hr />
 
 ### 📊 GitHub Stats
-<div align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=azeefashraf22-sketch&label=Profile%20views&color=00D1FF&style=flat" alt="Azeef Views" />
-  
-  <br/><br/>
-
-  <!-- Main Stats Card -->
-  <img width="85%" src="https://github-readme-stats.vercel.app/api?username=azeefashraf22-sketch&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff&bg_color=0d1117" />
-  
-  <br/><br/>
-
   <!-- Streak Card -->
   <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=azeefashraf22-sketch&theme=tokyonight&hide_border=true&fire=00D1FF&ring=00D1FF" />
 </div>
@@ -81,5 +70,9 @@
 </p>
 
 <hr />
+
+
+### 💡 Quote
+> "Building the future, one commit at a time."
 
 <p align="center">⭐️ Don't forget to star repositories you like!</p>
