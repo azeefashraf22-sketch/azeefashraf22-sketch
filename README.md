@@ -6,20 +6,21 @@
 
 <hr />
 
-### 👨‍💻 About Me
+<img src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U" align="right" width="310" />
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="300" />
+### 👨‍💻 About Me
 
 - 🔭 Currently working on **Full Stack Web Applications**
 - 🌱 Currently learning **React & Next.js**
 - 💬 Ask me about **JavaScript, TypeScript, Html & Css**
 - ⚡ Fun fact: *I love turning complex problems into simple beautiful apps*
 
-<br/>
+<br>
 
 ### 🌐 Portfolio
 🔗 [https://azeef-dev.netlify.app/](https://azeef-dev.netlify.app/)
 
+<br>
 <hr />
 
 ### 📩 Contact Me
@@ -64,16 +65,15 @@
 ### 📊 GitHub Stats
 <div align="center">
 <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=azeefashraf22-sketch&theme=tokyonight&hide_border=false&fire=00D1FF&ring=00D1FF" />
-<br/><br/>
-<img width="600" src="https://github-readme-stats.vercel.app/api?username=azeefashraf22-sketch&show_icons=true&theme=tokyonight&hide_border=false&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff&bg_color=0d1117" />
-</div>
+<br/>
 
 <hr />
 
 ### 🧠 Current Focus
-- 🤖 **AI + Virtual Try-On Systems**
-- 🛒 **Scalable MERN E-commerce Systems**
-- 📱 **Cross-platform Apps (React Native)**
+- 🚀 Scalable System Architecture & Performance Optimization
+- 🛠️ Modernizing Legacy Codebases with Next.js & TypeScript
+- 🔒 Secure API Development & Cloud Integration (AWS/Firebase)
+- ⚡ Mastering Advanced State Management & Microservices
 
 <hr />
 
