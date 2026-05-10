@@ -16,9 +16,6 @@
 - ⚡ Fun fact: *I love turning complex problems into simple beautiful apps*
 
 <br/>
-<br/>
-<br/>
-<br/>
 
 ### 🌐 Portfolio
 🔗 [https://azeef-dev.netlify.app/](https://azeef-dev.netlify.app/)
