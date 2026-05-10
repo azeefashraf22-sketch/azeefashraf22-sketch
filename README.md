@@ -8,13 +8,14 @@
 
 ### 👨‍💻 About Me
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="300" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="300" />
 
-- 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Currently learning **Next.js & Advanced Backend**
+- 🔭 Currently working on **Generative AI Projects**
+- 🌱 Currently learning **React Native & Advanced AI**
 - 💬 Ask me about **MERN Stack, APIs, Backend Systems**
 - ⚡ Fun fact: *I turn ideas into real-world applications*
 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -22,15 +23,17 @@
 ### 🌐 Portfolio
 🔗 [https://azeef-dev.netlify.app/](https://azeef-dev.netlify.app/)
 
+<hr />
+
 ### 📩 Contact Me
-📧 **azeefdeveloper@gmail.com**
+- 📧 **azeefdeveloper@gmail.com**
 
 <hr />
 
 ### 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/azeef-ashraf-049585387" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/azeefashraf22-sketch" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
