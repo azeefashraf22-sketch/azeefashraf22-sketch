@@ -10,10 +10,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="300" />
 
-- 🔭 Currently working on **Generative AI Projects**
-- 🌱 Currently learning **React Native & Advanced AI**
-- 💬 Ask me about **MERN Stack, APIs, Backend Systems**
-- ⚡ Fun fact: *I turn ideas into real-world applications*
+- 🔭 Currently working on **Full Stack Web Applications**
+- 🌱 Currently learning **React & Next.js**
+- 💬 Ask me about **JavaScript, TypeScript, Html & Css**
+- ⚡ Fun fact: *I love turning complex problems into simple beautiful apps*
 
 <br/>
 <br/>
