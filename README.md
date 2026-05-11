@@ -66,14 +66,15 @@
 <div align="center">
 <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=azeefashraf22-sketch&theme=tokyonight&hide_border=false&fire=00D1FF&ring=00D1FF" />
 <br/>
+</div>
 
 <hr />
 
 ### 🧠 Current Focus
-- 🚀 Scalable System Architecture & Performance Optimization
-- 🛠️ Modernizing Legacy Codebases with Next.js & TypeScript
-- 🔒 Secure API Development & Cloud Integration (AWS/Firebase)
-- ⚡ Mastering Advanced State Management & Microservices
+- 🚀 **Scalable System Architecture & Performance Optimization**
+- 🛠️ **Modernizing Legacy Codebases with Next.js & TypeScript**
+- 🔒 **Secure API Development & Cloud Integration (AWS/Firebase)**
+- ⚡ **Mastering Advanced State Management & Microservices**
 
 <hr />
 
