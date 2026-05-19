@@ -64,7 +64,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=azeefashraf22-sketch&theme=tokyonight&hide_border=false&fire=00D1FF&ring=00D1FF" />
+<img width="600" src="https://streak-stats.demolab.com/?user=azeefashraf22-sketch&theme=tokyonight&hide_border=false&fire=00D1FF&ring=00D1FF" />
 <br/>
 </div>
 
