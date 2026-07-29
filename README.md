@@ -64,7 +64,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=azeefashraf22-sketch&theme=tokyonight&hide_border=false&fire=00D1FF&ring=00D1FF" alt="GitHub Streak" width="600" />
+<img src="https://streak-stats.demolab.com/?user=azeefashraf22-sketch&theme=tokyonight&hide_border=false&fire=00D1FF&ring=00D1FF&count_private=true" alt="GitHub Streak" width="600" />
 <br/>
 </div>
 
