@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/azeef-ashraf-049585387" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/azeefashraf22-sketch" target="_blank">
+<a href="https://github.com/azeef-dev" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -64,7 +64,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=azeefashraf22-sketch&theme=tokyonight&hide_border=false&fire=00D1FF&ring=00D1FF&count_private=true" alt="GitHub Streak" width="600" />
+<img src="https://streak-stats.demolab.com/?user=azeef-dev&theme=tokyonight&hide_border=false&fire=00D1FF&ring=00D1FF&count_private=true" alt="GitHub Streak" width="600" />
 <br/>
 </div>
 
@@ -80,7 +80,7 @@
 
 ### 🔥 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azeefashraf22-sketch&theme=react-dark&area=true&bg_color=0d1117&hide_border=false&line=00D1FF&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azeef-dev&theme=react-dark&area=true&bg_color=0d1117&hide_border=false&line=00D1FF&point=ffffff" width="100%" />
 </p>
 
 <hr />
