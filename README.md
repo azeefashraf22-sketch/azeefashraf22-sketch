@@ -18,7 +18,7 @@
 <br>
 
 ### 🌐 Portfolio
-🔗 [https://azeef-dev.netlify.app/](https://azeef-dev.netlify.app/)
+🔗 [https://azeef-dev.vercel.app/](https://azeef-dev.vercel.app/)
 
 <br>
 <hr />
