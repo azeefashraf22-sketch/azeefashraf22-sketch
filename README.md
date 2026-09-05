@@ -80,7 +80,7 @@
 
 ### 🔥 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azeef-dev&theme=react-dark&area=true&bg_color=0d1117&hide_border=false&line=00D1FF&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azeef-dev&theme=react-dark&bg_color=0d1117&color=00D1FF&line=00D1FF&point=ffffff&area=true&hide_border=true&v=1" width="100%" />
 </p>
 
 <hr />
